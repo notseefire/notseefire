@@ -1,6 +1,6 @@
 ###  👨🏻‍💻 About me
  - 😄 A senior undergraduate student in BUPT 💝.
- - ✨ Curious about magic in Computer Science.
+ - ✨ Infinite curiosity in magic of Computer Science.
  - 🌱 Learning about Database Engine and GPGPU Architecture
  - 👯 Looking for an internship.
 
