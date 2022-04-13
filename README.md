@@ -15,6 +15,7 @@
  Now I am focusing on projects:
  - A Unix-like Operating System
  - Might a New GPGPU Memory Scheduling
+ - Reading DDIA
 
 <!--
 **notseefire/notseefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
