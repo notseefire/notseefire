@@ -14,7 +14,7 @@
 ### TODO
  Now I am focusing on projects:
  - A Unix-like Operating System
- - Might a New GPGPU Memory Scheduling
+ - GPGPU benchmarking
  - Reading DDIA
 
 <!--
