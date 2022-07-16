@@ -1,8 +1,6 @@
 ###  👨🏻‍💻 About me
  - 😄 A senior undergraduate student in BUPT 💝.
  - ✨ Infinite curiosity in magic of Computer Science.
- - 🌱 Learning about Database Engine and GPGPU Architecture
- - 👯 Looking for an internship.
 
 
 ### 🛠️ Skill
@@ -13,9 +11,7 @@
 
 ### TODO
  Now I am focusing on projects:
- - A Unix-like Operating System
- - GPGPU benchmarking
- - Reading DDIA
+ - Reading Linux network subsystem
 
 <!--
 **notseefire/notseefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
